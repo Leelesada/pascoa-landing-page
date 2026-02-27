@@ -324,7 +324,7 @@ export default function App() {
               <div className="flex flex-col md:flex-row gap-8 items-center">
                 <div className="w-48 h-48 bg-white rounded-2xl border border-stone-100 flex items-center justify-center p-2 shadow-inner">
                   <img 
-                    src="qr-code.png" 
+                    src="pix-qr-code.png" 
                     alt="Pix QR Code" 
                     className="w-full h-full object-contain"
                     referrerPolicy="no-referrer"
@@ -419,7 +419,7 @@ export default function App() {
                 referrerPolicy="no-referrer"
               />
               <div>
-                <h3 className="serif text-2xl font-bold text-stone-900 mb-1">Lumini Contabilidade</h3>
+        
                 <p className="text-stone-500 text-sm">Muito além dos números.</p>
               </div>
             </div>
