@@ -146,7 +146,7 @@ export default function App() {
               className="relative aspect-square rounded-3xl overflow-hidden shadow-2xl"
             >
               <img 
-                src="input_file_1.png" 
+                src="Foto-LP.png" 
                 alt="Páscoa Além dos Números" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
@@ -324,7 +324,7 @@ export default function App() {
               <div className="flex flex-col md:flex-row gap-8 items-center">
                 <div className="w-48 h-48 bg-white rounded-2xl border border-stone-100 flex items-center justify-center p-2 shadow-inner">
                   <img 
-                    src="input_file_2.png" 
+                    src="qr-code.png" 
                     alt="Pix QR Code" 
                     className="w-full h-full object-contain"
                     referrerPolicy="no-referrer"
@@ -413,7 +413,7 @@ export default function App() {
           <div className="flex flex-col md:flex-row justify-between items-center gap-8">
             <div className="text-center md:text-left flex flex-col items-center md:items-start gap-4">
               <img 
-                src="input_file_0.png" 
+                src="logo-preto.png" 
                 alt="Lumini Contabilidade Logo" 
                 className="h-16 object-contain"
                 referrerPolicy="no-referrer"
