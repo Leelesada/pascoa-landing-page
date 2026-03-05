@@ -80,8 +80,7 @@ export default function App() {
               <span className="italic text-brand-dark">dos Números</span>
             </h1>
             <p className="max-w-2xl mx-auto text-lg md:text-xl text-stone-600 font-light leading-relaxed mb-10">
-              Na Lumini Contabilidade, acreditamos que o valor real não está nas planilhas, 
-              mas no impacto que geramos na vida de quem mais precisa.
+              Para a Lumini Contabilidade, o que realmente importa não são os números, mas a transformação positiva que levamos à vida das pessoas.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <a 
