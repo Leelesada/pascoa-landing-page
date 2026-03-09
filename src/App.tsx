@@ -15,30 +15,30 @@ import {
 
 const itemsInfantil = [
   { name: "Fralda P", qty: "40 pacotes" },
-  { name: "Fralda M", qty: "30 pacotes" },
-  { name: "Fralda G", qty: "30 pacotes" },
-  { name: "Lenço umedecido", qty: "100 pacotes" },
-  { name: "Pomada de assadura", qty: "30 unidades" },
-  { name: "Sabonete infantil", qty: "30 unidades" },
+  { name: "Fralda M", qty: "23 pacotes" },
+  { name: "Fralda G", qty: "28 pacotes" },
+  { name: "Lenço umedecido", qty: "73 pacotes" },
+  { name: "Pomada de assadura", qty: "28 unidades" },
+  { name: "Sabonete infantil", qty: "24 unidades" },
   { name: "Creme dental infantil", qty: "20 unidades" },
   { name: "Escova de dente infantil", qty: "20 unidades" },
-  { name: "Shampoo infantil", qty: "20 unidades" },
+  { name: "Shampoo infantil", qty: "18 unidades" },
   { name: "Condicionador infantil", qty: "20 unidades" },
 ];
 
 const itemsJuvenil = [
-  { name: "Absorvente c/ ou s/ abas", qty: "25 pacotes" },
-  { name: "Desodorante feminino", qty: "30 unidades" },
-  { name: "Papel higiênico", qty: "30 pacotes" },
-  { name: "Escova de dente", qty: "30 unidades" },
-  { name: "Creme dental", qty: "30 unidades" },
-  { name: "Sabonete", qty: "30 unidades" },
-  { name: "Shampoo", qty: "20 unidades" },
-  { name: "Condicionador", qty: "20 unidades" },
+  { name: "Absorvente c/ ou s/ abas", qty: "17 pacotes" },
+  { name: "Desodorante feminino", qty: "17 unidades" },
+  { name: "Papel higiênico", qty: "29 pacotes" },
+  { name: "Escova de dente", qty: "18 unidades" },
+  { name: "Creme dental", qty: "20 unidades" },
+  { name: "Sabonete", qty: "10 unidades" },
+  { name: "Shampoo", qty: "14 unidades" },
+  { name: "Condicionador", qty: "14 unidades" },
 ];
 
 const itemsDoces = [
-  { name: "Barra de chocolate", qty: "25 unidades" },
+  { name: "Barra de chocolate", qty: "23 unidades" },
   { name: "Caixa de chocolate", qty: "25 unidades" },
   { name: "Amendoim", qty: "25 unidades" },
   { name: "Colomba Pascal", qty: "25 unidades" },
