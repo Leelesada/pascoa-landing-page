@@ -17,7 +17,7 @@ const itemsInfantil = [
   { name: "Fralda P", qty: "40 pacotes" },
   { name: "Fralda M", qty: "23 pacotes" },
   { name: "Fralda G", qty: "28 pacotes" },
-  { name: "Lenço umedecido", qty: "73 pacotes" },
+  { name: "Lenço umedecido", qty: "75 pacotes" },
   { name: "Pomada de assadura", qty: "28 unidades" },
   { name: "Sabonete infantil", qty: "24 unidades" },
   { name: "Creme dental infantil", qty: "batemos a meta!" },
@@ -27,7 +27,7 @@ const itemsInfantil = [
 ];
 
 const itemsJuvenil = [
-  { name: "Absorvente c/ ou s/ abas", qty: "17 pacotes" },
+  { name: "Absorvente c/ ou s/ abas", qty: "13 pacotes" },
   { name: "Desodorante feminino", qty: "17 unidades" },
   { name: "Papel higiênico", qty: "29 pacotes" },
   { name: "Escova de dente", qty: "batemos a meta!" },
