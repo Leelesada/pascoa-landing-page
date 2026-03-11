@@ -29,7 +29,7 @@ const itemsInfantil = [
 const itemsJuvenil = [
   { name: "Absorvente c/ ou s/ abas", qty: "11 pacotes" },
   { name: "Desodorante feminino", qty: "14 unidades" },
-  { name: "Papel higiênico", qty: "29 pacotes" },
+  { name: "Papel higiênico", qty: "28 pacotes" },
   { name: "Escova de dente", qty: "batemos a meta!" },
   { name: "Creme dental", qty: "20 unidades" },
   { name: "Sabonete", qty: "batemos a meta!" },
