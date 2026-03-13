@@ -27,7 +27,7 @@ const itemsInfantil = [
 ];
 
 const itemsJuvenil = [
-  { name: "Absorvente c/ ou s/ abas", qty: "10 pacotes" },
+  { name: "Absorvente c/ ou s/ abas", qty: "7 pacotes" },
   { name: "Desodorante feminino", qty: "13 unidades" },
   { name: "Papel higiênico", qty: "28 pacotes" },
   { name: "Escova de dente", qty: "batemos a meta!" },
@@ -38,7 +38,7 @@ const itemsJuvenil = [
 ];
 
 const itemsDoces = [
-  { name: "Barra de chocolate", qty: "13 unidades" },
+  { name: "Barra de chocolate", qty: "15 unidades" },
   { name: "Caixa de chocolate", qty: "25 unidades" },
   { name: "Amendoim", qty: "batemos a meta!" },
   { name: "Colomba Pascal", qty: "batemos a meta!" },
