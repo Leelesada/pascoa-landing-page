@@ -38,7 +38,7 @@ const itemsJuvenil = [
 ];
 
 const itemsDoces = [
-  { name: "Barra de chocolate", qty: "14 unidades" },
+  { name: "Barra de chocolate", qty: "12 unidades" },
   { name: "Caixa de chocolate", qty: "25 unidades" },
   { name: "Amendoim", qty: "batemos a meta!" },
   { name: "Colomba Pascal", qty: "batemos a meta!" },
