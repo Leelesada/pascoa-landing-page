@@ -23,22 +23,22 @@ const itemsInfantil = [
   { name: "Creme dental infantil", qty: "batemos a meta!" },
   { name: "Escova de dente infantil", qty: "batemos a meta!" },
   { name: "Shampoo infantil", qty: "batemos a meta!" },
-  { name: "Condicionador infantil", qty: "20 unidades" },
+  { name: "Condicionador infantil", qty: "19 unidades" },
 ];
 
 const itemsJuvenil = [
-  { name: "Absorvente c/ ou s/ abas", qty: "7 pacotes" },
+  { name: "Absorvente c/ ou s/ abas", qty: "batemos a meta!" },
   { name: "Desodorante feminino", qty: "13 unidades" },
-  { name: "Papel higiênico", qty: "28 pacotes" },
+  { name: "Papel higiênico", qty: "26 pacotes" },
   { name: "Escova de dente", qty: "batemos a meta!" },
-  { name: "Creme dental", qty: "18 unidades" },
+  { name: "Creme dental", qty: "7 unidades" },
   { name: "Sabonete", qty: "batemos a meta!" },
-  { name: "Shampoo", qty: "13 unidades" },
-  { name: "Condicionador", qty: "13 unidades" },
+  { name: "Shampoo", qty: "12 unidades" },
+  { name: "Condicionador", qty: "12 unidades" },
 ];
 
 const itemsDoces = [
-  { name: "Barra de chocolate", qty: "15 unidades" },
+  { name: "Barra de chocolate", qty: "14 unidades" },
   { name: "Caixa de chocolate", qty: "25 unidades" },
   { name: "Amendoim", qty: "batemos a meta!" },
   { name: "Colomba Pascal", qty: "batemos a meta!" },
