@@ -17,7 +17,7 @@ const itemsInfantil = [
   { name: "Fralda P", qty: "40 pacotes" },
   { name: "Fralda M", qty: "23 pacotes" },
   { name: "Fralda G", qty: "28 pacotes" },
-  { name: "Lenço umedecido", qty: "67 pacotes" },
+  { name: "Lenço umedecido", qty: "48 pacotes" },
   { name: "Pomada de assadura", qty: "21 unidades" },
   { name: "Sabonete infantil", qty: "batemos a meta!" },
   { name: "Creme dental infantil", qty: "batemos a meta!" },
