@@ -17,7 +17,7 @@ const itemsInfantil = [
   { name: "Fralda P", qty: "40 pacotes" },
   { name: "Fralda M", qty: "23 pacotes" },
   { name: "Fralda G", qty: "28 pacotes" },
-  { name: "Lenço umedecido", qty: "48 pacotes" },
+  { name: "Lenço umedecido", qty: "36 pacotes" },
   { name: "Pomada de assadura", qty: "21 unidades" },
   { name: "Sabonete infantil", qty: "batemos a meta!" },
   { name: "Creme dental infantil", qty: "batemos a meta!" },
@@ -38,7 +38,7 @@ const itemsJuvenil = [
 ];
 
 const itemsDoces = [
-  { name: "Barra de chocolate", qty: "12 unidades" },
+  { name: "Barra de chocolate", qty: "2 unidades" },
   { name: "Caixa de chocolate", qty: "25 unidades" },
   { name: "Amendoim", qty: "batemos a meta!" },
   { name: "Colomba Pascal", qty: "batemos a meta!" },
