@@ -33,8 +33,8 @@ const itemsJuvenil = [
   { name: "Escova de dente", qty: "batemos a meta!" },
   { name: "Creme dental", qty: "7 unidades" },
   { name: "Sabonete", qty: "batemos a meta!" },
-  { name: "Shampoo", qty: "12 unidades" },
-  { name: "Condicionador", qty: "12 unidades" },
+  { name: "Shampoo", qty: "6 unidades" },
+  { name: "Condicionador", qty: "6 unidades" },
 ];
 
 const itemsDoces = [
