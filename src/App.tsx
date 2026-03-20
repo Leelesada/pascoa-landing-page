@@ -14,7 +14,7 @@ import {
 } from "lucide-react";
 
 const itemsInfantil = [
-  { name: "Fralda P", qty: "40 pacotes" },
+  { name: "Fralda P", qty: "38 pacotes" },
   { name: "Fralda M", qty: "23 pacotes" },
   { name: "Fralda G", qty: "28 pacotes" },
   { name: "Lenço umedecido", qty: "24 pacotes" },
