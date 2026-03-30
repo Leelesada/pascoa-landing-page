@@ -14,32 +14,32 @@ import {
 } from "lucide-react";
 
 const itemsInfantil = [
-  { name: "Fralda P", qty: "38 pacotes" },
-  { name: "Fralda M", qty: "23 pacotes" },
-  { name: "Fralda G", qty: "28 pacotes" },
-  { name: "Lenço umedecido", qty: "25 pacotes" },
-  { name: "Pomada de assadura", qty: "19 unidades" },
+  { name: "Fralda P", qty: "31 pacotes" },
+  { name: "Fralda M", qty: "15 pacotes" },
+  { name: "Fralda G", qty: "17 pacotes" },
+  { name: "Lenço umedecido", qty: "batemos a meta!" },
+  { name: "Pomada de assadura", qty: "2 unidades" },
   { name: "Sabonete infantil", qty: "batemos a meta!" },
   { name: "Creme dental infantil", qty: "batemos a meta!" },
   { name: "Escova de dente infantil", qty: "batemos a meta!" },
   { name: "Shampoo infantil", qty: "batemos a meta!" },
-  { name: "Condicionador infantil", qty: "17 unidades" },
+  { name: "Condicionador infantil", qty: "18 unidades" },
 ];
 
 const itemsJuvenil = [
   { name: "Absorvente c/ ou s/ abas", qty: "batemos a meta!" },
-  { name: "Desodorante feminino", qty: "13 unidades" },
-  { name: "Papel higiênico", qty: "26 pacotes" },
+  { name: "Desodorante feminino", qty: "batemos a meta!" },
+  { name: "Papel higiênico", qty: "batemos a meta!" },
   { name: "Escova de dente", qty: "batemos a meta!" },
-  { name: "Creme dental", qty: "7 unidades" },
+  { name: "Creme dental", qty: "batemos a meta!" },
   { name: "Sabonete", qty: "batemos a meta!" },
-  { name: "Shampoo", qty: "6 unidades" },
-  { name: "Condicionador", qty: "6 unidades" },
+  { name: "Shampoo", qty: "batemos a meta!" },
+  { name: "Condicionador", qty: "batemos a meta!" },
 ];
 
 const itemsDoces = [
   { name: "Barra de chocolate", qty: "batemos a meta!" },
-  { name: "Caixa de chocolate", qty: "20 unidades" },
+  { name: "Caixa de chocolate", qty: "11 unidades" },
   { name: "Amendoim", qty: "batemos a meta!" },
   { name: "Colomba Pascal", qty: "batemos a meta!" },
 ];
